@@ -3,7 +3,11 @@
 
 > Open this page at [https://iicedcoco.github.io/practicegitupload/](https://iicedcoco.github.io/practicegitupload/)
 
-## Use as Extension
+## How to access python code:
+
+Open main.py to access full python code for the project
+
+## This project is playable in Microsoft MakeCode Arcade or can be imported as a uf2 file into a compatible console.
 
 This repository can be added as an **extension** in MakeCode.
 
@@ -20,7 +24,3 @@ To edit this repository in MakeCode.
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/iicedcoco/practicegitupload** and click import
 
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
